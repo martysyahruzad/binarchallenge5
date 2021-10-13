@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "name": "binarassignment",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martysyahruzad/binarchallenge5.git"
+  },
+  "author": "Amartya Syahruzad <syahruzad.amartya@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/martysyahruzad/binarchallenge5.git"
+  },
+  "homepage": "https://github.com/martysyahruzad/binarchallenge5.git",
+  "devDependencies": {}
+}
